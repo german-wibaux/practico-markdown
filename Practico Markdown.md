@@ -1,6 +1,6 @@
 ﻿# Harry Potter y la Piedra Filosofal
 
-Capitulo 4 - El guardián de las llaves
+## Capitulo 4 - <em>El guardián de las llaves</em>
 
 [...] 
 Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido del viento.
