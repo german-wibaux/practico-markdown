@@ -3,10 +3,10 @@
 ## Capitulo 4 - <em>El guardián de las llaves</em>
 
 <p>[...]</br> 
-Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido del viento.
-—¿Que soy qué? —dijo Harry con voz entrecortada.
-—Un mago —respondió Hagrid, sentándose otra vez en el sofá, que crujió y se hundió—. Y muy bueno, debo añadir, en cuanto te hayas entrenado un poco. Con unos padres como los tuyos ¿qué otra cosa podías ser? Y creo que ya es hora de que leas la carta.
-Harry extendió la mano para coger, finalmente, el sobre amarillento, dirigido, con tinta verde esmeralda al «Señor H.Potter, El Suelo de la Cabaña en la Roca, El Mar». Sacó la carta y leyó:
+Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido del viento.</br>
+—¿Que soy qué? —dijo Harry con voz entrecortada.</br>
+—Un mago —respondió Hagrid, sentándose otra vez en el sofá, que crujió y se hundió—. Y muy bueno, debo añadir, en cuanto te hayas entrenado un poco. Con unos padres como los tuyos ¿qué otra cosa podías ser? Y creo que ya es hora de que leas la carta.</br>
+Harry extendió la mano para coger, finalmente, el sobre amarillento, dirigido, con tinta verde esmeralda al «Señor H.Potter, El Suelo de la Cabaña en la Roca, El Mar». Sacó la carta y leyó:<p>
 
 COLEGIO HOGWARTS DE MAGIA
 Director: Albus Dumbledore
