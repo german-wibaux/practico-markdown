@@ -2,7 +2,7 @@
 
 ## Capitulo 4 - <em>El guardián de las llaves</em>
 
-[...] 
+<p>[...]</br> 
 Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido del viento.
 —¿Que soy qué? —dijo Harry con voz entrecortada.
 —Un mago —respondió Hagrid, sentándose otra vez en el sofá, que crujió y se hundió—. Y muy bueno, debo añadir, en cuanto te hayas entrenado un poco. Con unos padres como los tuyos ¿qué otra cosa podías ser? Y creo que ya es hora de que leas la carta.
