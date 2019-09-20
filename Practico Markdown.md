@@ -8,6 +8,7 @@ Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido de
 —Un mago —respondió Hagrid, sentándose otra vez en el sofá, que crujió y se hundió—. Y muy bueno, debo añadir, en cuanto te hayas entrenado un poco. Con unos padres como los tuyos ¿qué otra cosa podías ser? Y creo que ya es hora de que leas la carta.</br>
 Harry extendió la mano para coger, finalmente, el sobre amarillento, dirigido, con tinta verde esmeralda al «Señor H.Potter, El Suelo de la Cabaña en la Roca, El Mar». Sacó la carta y leyó:<p>
 
+<blockquote>
 #### <em>COLEGIO HOGWARTS DE MAGIA</em>
 <p>  <strong><em>Director:</em></strong> <em>Albus Dumbledore
 (Orden de Merlín, Primera Clase,
@@ -22,6 +23,7 @@ Las clases comienzan el 1 de septiembre. Esperamos su lechuza antes del 31 de ju
 Muy cordialmente,<br/>
 Minerva McGonagall <br/>
 Directora adjunta  </em> </p>
+</blockquote>
 
 
 Las preguntas estallaban en la cabeza de Harry como fuegos artificiales, y no sabía cuál era la primera. Después de unos minutos, tartamudeó:
