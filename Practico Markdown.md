@@ -36,6 +36,6 @@ Directora adjunta  </em> </p>
 ##### UNIFORME
 <p>Los alumnos de primer año necesitarán:</p>
 
-⋅⋅* Tres túnicas sencillas de trabajo (negras).
-⋅⋅* Un sombrero puntiagudo (negro) para uso diario.
-⋅⋅* Un par de guantes protectores (piel de dragón o semejante).
+* Tres túnicas sencillas de trabajo (negras).
+* Un sombrero puntiagudo (negro) para uso diario.
+* Un par de guantes protectores (piel de dragón o semejante).
